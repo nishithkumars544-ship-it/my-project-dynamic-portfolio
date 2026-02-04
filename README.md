@@ -23,6 +23,8 @@ The project demonstrates basic frontend functionality and user interaction.
 
 ## 📷 Screenshots
 Screenshots of the project features are added in the repository.
+📄 Project Documentation (PDF):  
+[Click here to view](docs/Project_Documentation.pdf)
 
 ## 📂 Project Structure
 - index.html
