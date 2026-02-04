@@ -32,4 +32,4 @@ Screenshots of the project features are added in the repository.
 - images (if any)
 
 ## 👤 Author
-- Your Name
+- Nishithkumar selvarajan
